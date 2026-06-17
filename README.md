@@ -1,10 +1,10 @@
 # Hoi, ik ben Marouan 👋
 
-Data Engineering student bij Bit Academy (Mediacollege Amsterdam) en bezig met digitale tools bij SushiPoint.
+geslaagd student bij Bit Academy (Mediacollege Amsterdam) en bezig met digitale tools bij SushiPoint.
 
 ## Waar ik nu mee bezig ben
 
-- 🍣 Bouw en onderhoud AI chatbot voor SushiPoint
+- 🍣 Bouw en onderhoud AI chatbot voor SushiPoint Nederland
 - 🎓 Ronde mijn software development MBO niveau 4 af (route data engineering)
 - 👀 Kijk verder naar een HBO ICT Bachelor vervolg
 
